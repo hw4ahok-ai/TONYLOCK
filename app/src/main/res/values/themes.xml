@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TonyLock" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1F6FEB</item>
+        <item name="colorPrimaryVariant">#174EA6</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
